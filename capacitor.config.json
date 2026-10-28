@@ -1,0 +1,12 @@
+{
+  "appId": "com.cogenax.app",
+  "appName": "Cogenax",
+  "webDir": "www",
+  "backgroundColor": "#0b1626",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_cogenax",
+      "iconColor": "#2DD4BF"
+    }
+  }
+}
